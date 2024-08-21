@@ -1,0 +1,21 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "title": "note1",
+      "content": "sans"
+    },
+    {
+      "id": "2",
+      "title": "note2",
+      "content": "complete assignment"
+    },
+    {
+      "id": 3,
+      "title": "saned",
+      "content": "tested",
+      "createdAt": "2024-08-21T13:33:47.809Z",
+      "updatedAt": "2024-08-21T13:37:05.510Z"
+    }
+  ]
+}
